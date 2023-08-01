@@ -1,4 +1,4 @@
-# basic-mern-stack
+# simple-mern-stack
 
 Following this complete guide at [MERN Stack](https://www.mongodb.com/languages/mern-stack-tutorial)
 
